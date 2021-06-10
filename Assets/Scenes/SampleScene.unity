@@ -1252,7 +1252,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Satus
+  m_Text: Wait...
 --- !u!222 &1102638248
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1292,7 +1292,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectInfoText: {fileID: 296086995}
   joinButton: {fileID: 815692537}
-  CallUI: {fileID: 1191713428}
+  callUI: {fileID: 1191713428}
 --- !u!4 &1106489299
 Transform:
   m_ObjectHideFlags: 0
